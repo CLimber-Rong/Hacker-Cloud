@@ -1,7 +1,7 @@
 # Hacker-Cloud
 一个采用个人自创的基于FMP(File Management Protocol，文件管理协议)的云存储内核，适合网络远程文件管理。部署简单。
 
-File Management Protocol (FMP) a self-created cloud storage kernel based on File Management Protocol (FMP), suitable for network remote File Management.  Simple deployment.  
+A self-created cloud storage kernel based on FMP(File Management Protocol), suitable for network remote File Management.  Simple deployment.  
 
 Un noyau de stockage en nuage basé sur FMP(File Management Protocol, protocole de gestion de fichiers) créé par un individu, adapté à la gestion de fichiers à distance sur le réseau.  Simple à déployer.  
 
